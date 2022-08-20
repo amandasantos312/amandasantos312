@@ -1,5 +1,6 @@
 ### Oi querido visitante, é um prazer ter você por aqui no meu perfil! 👋
-### Estou cursando ADS no Ifpi. Por sempre gostar de mexer em computador desde pequena, decidi então ir a fundo atrás de conhecimentos na área da tecnologia.
+### Um pouco sobre mim: 
+### Sendo amante da tecnologia desde pequena, decidi então ir a fundo atrás de conhecimentos na área da tecnologia através do curso de análise e desenvolvimento de sistemas -Ifpi. 🚀
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-santos-765244248/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]( https://www.instagram.com/invites/contact/?i=1ib6yp0o7x3ry&utm_content=euyjnpu)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Amanda_dev312)
