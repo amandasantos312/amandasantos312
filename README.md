@@ -1,7 +1,7 @@
 ### Oi querido visitante, é um prazer ter você por aqui no meu perfil! 👋
 ### Um pouco sobre mim: 
 ### Sendo amante da tecnologia desde criança, decidi então, ir a fundo atrás de conhecimentos da área por meio do curso de Análise e Desenvolvimento de Sistemas no Ifpi. 🚀
-Minhas redes sociais:
+## Minhas redes sociais:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-santos-765244248/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]( https://www.instagram.com/invites/contact/?i=1ib6yp0o7x3ry&utm_content=euyjnpu)
