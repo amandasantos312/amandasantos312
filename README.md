@@ -1,4 +1,4 @@
-### Oi querido visitante, é um prazer ter você por aqui no meu perfil! 👋
+### *Hello World*! 👋
 ### Um pouco sobre mim: 
 ### Sendo amante da tecnologia desde criança, decidi então, ir a fundo atrás de conhecimentos da área por meio do curso de Análise e Desenvolvimento de Sistemas no Ifpi. 🚀
 
