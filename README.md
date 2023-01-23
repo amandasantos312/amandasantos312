@@ -1,6 +1,6 @@
 ### *Hello World*! 👋
 ### Um pouco sobre mim: 
-### Sendo amante da tecnologia desde criança, decidi então, ir a fundo atrás de conhecimentos da área por meio do curso de Análise e Desenvolvimento de Sistemas no Ifpi. 🚀
+### Sendo amante da tecnologia desde criança, decidi então, ir a fundo atrás de conhecimentos da área por meio do curso de Análise e Desenvolvimento de Sistemas-Ifpi. 🚀
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-santos-765244248/)
