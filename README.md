@@ -6,10 +6,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-santos-765244248/)
 
 
-
-![Amanda GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanda-Santos312&show_icons=true&theme=radical)
-
-
 ## Linguagens em andamento:
 
 <div style="display: inline_block"><br/>
