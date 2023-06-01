@@ -7,6 +7,8 @@
 
 ![Amanda Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanda-Santos312&show_icons=true&theme=radical)
 
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-Santos312&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Linguagens:
 
 <div style="display: inline_block"><br/>
