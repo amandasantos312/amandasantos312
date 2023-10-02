@@ -1,6 +1,6 @@
 ## Hello World! 👻
 
-### Sendo amante de computador desde a infância, decidi trilhar na área da programação atráves do curso superior de Análise e Desenvolvimento de Sistemas-Ifpi e por aqui registro meus códigos.😉
+### Sendo amante de computador desde a infância, decidi entrar na área da programação atráves do curso superior de Análise e Desenvolvimento de Sistemas-Ifpi e por aqui registro meus códigos.😉
 ### Para uma maior conexão:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-santos-765244248/)
