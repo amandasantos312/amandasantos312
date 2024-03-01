@@ -15,9 +15,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
----
+
 ![Amanda Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanda-Santos312&show_icons=true&theme=radical) 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-Santos312&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
