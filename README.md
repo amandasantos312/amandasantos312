@@ -1,10 +1,12 @@
-## Hello World! 👻
+# Hello World, I'm Amanda!😉
 
-👩🏽‍💻**Systems Analysis and Development Student in Constantly Learning;**
+#### 👩🏽‍💻Systems Analysis and Development Student in constantly learning;
+#### 💗I like photographs, old games and animals;
+#### 👇🏽 Connect with me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-santos-765244248/)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/amandasantos312)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amandasantos312)
+<!--[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/amandasantos312)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amandasantos312)-->
 ----
 **🚀 Skills**
 ----
